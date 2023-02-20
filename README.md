@@ -7,6 +7,7 @@ It is a graphical interface made in Matlab where you can see the waveforms of th
 # How it works
 
 The application opens with an interface, which contains the circuit diagram and a menu, called "Documentatie".      
+![image](https://user-images.githubusercontent.com/107769103/220174603-0b37cdf7-dade-40ce-ac2a-e151d4cfee9e.png)
 
 Accessing the menu will open three other submenus. One for our circuit, which in turn splits into two, one for the bibliography and one for closing the application.    
 ![image](https://user-images.githubusercontent.com/107769103/220172680-64af1d73-97f9-4a41-bec9-2872bf7cd834.png)
