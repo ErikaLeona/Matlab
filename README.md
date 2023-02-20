@@ -27,7 +27,7 @@ By pressing the first radio button, next to the output voltage, the input voltag
 Accessing the second RadioButton, called "Afiseaza CSTV", the CSTV will appear on the right side of the figure.
 ![image](https://user-images.githubusercontent.com/107769103/220172545-4983f1c6-2608-4ca2-9090-57eab53491ec.png)
 
-By checking the third RadioButton, another subplot will appear in place of the CSTV showing the output power across the RL resistor. 
+By checking the third RadioButton, another subplot will appear in place of the CSTV showing the output power across the RL resistor.     
 ![image](https://user-images.githubusercontent.com/107769103/220172563-d2f5cd05-0e0f-4731-9f5d-143f1d411027.png)
 
 Depending on the option chosen from the popup menu, either the output current (io) or the current from the first transistor (ic1) or the current from the second transistor (ic2) will be displayed.   
