@@ -19,7 +19,6 @@ Accessing the "Waveforms" sub-menu will open another interface, on which it is l
 >A pushbutton   
 ![image](https://user-images.githubusercontent.com/107769103/220172599-6cd682b9-a9eb-47d4-ac32-1fdc4601f9c2.png)
 
-
 By pressing the first radio button, next to the output voltage, the input voltage will be displayed.
 ![image](https://user-images.githubusercontent.com/107769103/220171503-70901b80-ef69-4861-bb1a-93667fee2246.png)
 
@@ -35,4 +34,12 @@ Depending on the option chosen from the popup menu, either the output current (i
 ![image](https://user-images.githubusercontent.com/107769103/220173081-9c0202f3-9bf8-4122-83de-5e090d50f40e.png)
 
 By changing the values in the radiogroup, all waveforms will change according to the changed value.    
+
+Accessing the "Equations" submenu will open another interface, on which it is located:
+>A ChechBox   
+>A radiogroup with 3 edit buttons, respectively 3 text buttons   
+>A radiogroup with 6 text buttons     
+>A pushbutton   
+
+By checking the CheckBox, the output power, supply and efficiency will be calculated, at the maximum amplitude of the output voltage (vo=Vcc-0.2), obtaining a maximum efficiency.
 
