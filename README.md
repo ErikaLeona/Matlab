@@ -17,7 +17,9 @@ Accessing the "Cronograme" sub-menu will open another interface, on which it is 
 >3 radio buttons     
 >A plot showing the current       
 >A radiogroup with 3 edit buttons, respectively 3 text buttons       
->A pushbutton   ![image](https://user-images.githubusercontent.com/107769103/220172599-6cd682b9-a9eb-47d4-ac32-1fdc4601f9c2.png)
+>A pushbutton 
+  
+![image](https://user-images.githubusercontent.com/107769103/220172599-6cd682b9-a9eb-47d4-ac32-1fdc4601f9c2.png)
 
 By pressing the first radio button, next to the output voltage, the input voltage will be displayed.
 ![image](https://user-images.githubusercontent.com/107769103/220171503-70901b80-ef69-4861-bb1a-93667fee2246.png)
